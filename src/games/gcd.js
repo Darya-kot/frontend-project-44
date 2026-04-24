@@ -22,4 +22,4 @@ const runGcdGame = () => {
   runGame(gameDescription, generateRound);
 };
 
-export default runGcdGame;
+export default runGcdGame

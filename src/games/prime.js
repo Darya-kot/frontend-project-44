@@ -23,4 +23,4 @@ const runPrimeGame = () => {
   runGame(gameDescription, generateRound);
 };
 
-export default runPrimeGame;
+export default runPrimeGame

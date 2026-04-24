@@ -33,4 +33,4 @@ const runCalcGame = () => {
   runGame(gameDescription, generateRound);
 };
 
-export default runCalcGame;
+export default runCalcGame
