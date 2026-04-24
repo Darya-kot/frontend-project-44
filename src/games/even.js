@@ -1,7 +1,7 @@
 // src/games/even.js
 import { runGame } from '../index.js';
 
-const isEven = (num) => num % 2 === 0;
+const isEven = num => num % 2 === 0;
 
 const generateRound = () => {
   const randomNumber = Math.floor(Math.random() * 100) + 1;
